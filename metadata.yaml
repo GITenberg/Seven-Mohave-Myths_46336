@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40065
     wikipedia: http://en.wikipedia.org/wiki/Alfred_L._Kroeber
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46336#Seven-Mohave-Myths
 gutenberg_issued: '2014-07-19'
 gutenberg_type: Text
 identifiers:
