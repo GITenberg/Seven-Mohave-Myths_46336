@@ -1,0 +1,30 @@
+_repo: Seven-Mohave-Myths_46336
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46336-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kroeber, A. L. (Alfred Louis)
+    alias: Kroeber, Alfred Louis
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '40065'
+    url: http://www.gutenberg.org/2009/agents/40065
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_L._Kroeber
+description: ''
+gutenberg_issued: '2014-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46336'
+  lccn: a48006434
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mohave Indians'
+- !lcsh 'Indian mythology -- North America'
+- !lcc 'E011'
+title: Seven Mohave Myths
+url: http://www.gutenberg.org/ebooks/46336
